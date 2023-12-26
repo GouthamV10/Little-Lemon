@@ -1,8 +1,9 @@
 import React from "react";
+import "./Nav.css";
 
 const Nav = () => {
   return (
-    <nav>
+    <nav className="nav-container">
       <ul>
         <li>
           <a href="#">Home</a>

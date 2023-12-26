@@ -1,0 +1,13 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px; /* Add padding as needed */
+  background-color: #ffffff; /* Set background color if desired */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.logo {
+  width: 200px; /* Adjust the width as needed */
+  height: 40px; /* Adjust the height as needed */
+}

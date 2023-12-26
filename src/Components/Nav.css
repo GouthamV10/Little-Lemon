@@ -1,0 +1,28 @@
+.nav-container {
+  display: flex;
+  list-style: none;
+  margin-right: 50px;
+  padding: 0;
+}
+
+.nav-container ul {
+  display: flex; /* Make the ul a flex container */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-container li {
+  margin-right: 10px;
+  padding: 0 10px;
+}
+
+.nav-container a {
+  text-decoration: none;
+  color: #333;
+  border-bottom: 1px solid transparent; /* Add a transparent border initially */
+}
+
+.nav-container a:hover {
+  /* Add a bottom border on hover */
+}
